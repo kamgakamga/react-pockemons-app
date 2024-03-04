@@ -5,7 +5,7 @@ export default class Pokemon {
         name: string;
         picture: string;
         types: Array<string>;
-        created: Date;
+        created?: Date;
         
         constructor(
          id: number,

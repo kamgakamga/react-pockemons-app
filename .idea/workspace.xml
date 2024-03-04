@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b389a094-811d-41fa-a1b3-193ce7b84784" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/composants/pokemon-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/composants/pokemon-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/format-date.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/format-date.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/pokemon.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/pokemon.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pokemon-detail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pokemon-detail.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pokemon-edit.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pokemon-edit.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pokemon-list.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/pokemon-list.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2WlfEhoadAo3Pml8C16pyxNtBSx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b389a094-811d-41fa-a1b3-193ce7b84784" name="Default Changelist" comment="" />
+      <created>1697311984427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697311984427</updated>
+      <workItem from="1697312064485" duration="372000" />
+    </task>
+    <servers />
+  </component>
+</project>
